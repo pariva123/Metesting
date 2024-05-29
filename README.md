@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 
 ## Installation
 1. **Clone the Repository**
-   git clone https://github.com/your-username/metesting.git
+   git clone https://github.com/parivadhir/metesting.git
    cd metesting
    
 ## Install Dependencies
