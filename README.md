@@ -4,7 +4,7 @@
 Metesting is a Python-based project designed to streamline and enhance the process of software testing. This project provides tools and frameworks to facilitate automated testing, ensure code quality, and improve the overall development workflow.
 
 ## Features
-- Automated test execution
+- Automated test execution.
 - Test reporting and analytics
 - Integration with CI/CD pipelines
 - Support for various testing frameworks (e.g., unittest, pytest)
